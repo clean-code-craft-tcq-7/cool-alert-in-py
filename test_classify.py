@@ -1,9 +1,9 @@
 import unittest
-from battery_data_model import BatteryDataModel, BatteryState
-from classify import classify_battery_state
-from thresholds import ThermalManagementType
-
 # ---------- STEP 5 code starts ----------
+#from battery_data_model import BatteryDataModel, BatteryState
+#from classify import classify_battery_state
+#from thresholds import ThermalManagementType
+
 #class TestClassify(unittest.TestCase):
 #    def test_battery_ok(self):
 #        battery_data = BatteryDataModel(10567, ThermalManagementType.THERMAL_PASSIVE, 25)

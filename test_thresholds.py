@@ -1,7 +1,7 @@
 import unittest
-from thresholds import ThermalManagementType, alert_temperature_for_cooling_type
-
 # ---------- STEP 5 code starts ----------
+#from thresholds import ThermalManagementType, alert_temperature_for_cooling_type
+
 #class TestThresholds(unittest.TestCase):
 #    def test_cooling_dependent_thresholds(self):
 #        passive_limit = alert_temperature_for_cooling_type(ThermalManagementType.THERMAL_PASSIVE)

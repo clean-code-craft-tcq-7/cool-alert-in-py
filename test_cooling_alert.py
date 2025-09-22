@@ -1,7 +1,7 @@
 import unittest
-from cooling_alert import CoolingType, ActionType, battery_temperature_to_action
-
 # ---------- STEP 2 code starts ----------
+#from cooling_alert import CoolingType, ActionType, battery_temperature_to_action
+
 #class TestCoolingAlert(unittest.TestCase):
 #    def test_passive_cooling_alert_to_email(self):
 #        action = battery_temperature_to_action(CoolingType.PASSIVE_COOLING, 45.0)
